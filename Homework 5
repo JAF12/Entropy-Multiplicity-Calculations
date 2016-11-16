@@ -5,7 +5,7 @@ Name: José Flores
 Date: Sunday November 13, 2016
 
 """
-
+""" Depending on the version of Python you use, you might need to replace np.log to math.log """
 
 ######################### Modules ##########################
 
