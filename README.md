@@ -1,2 +1,0 @@
-# Entropy-Multiplicity-Calculations
-
